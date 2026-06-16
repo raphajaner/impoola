@@ -11,7 +11,7 @@ This repository is the official implementation of the [paper](https://openreview
 > [Mirco Theile](https://scholar.google.com/citations?user=88rL5TUAAAAJ&hl=de&oi=sra),
 > and [Marco Caccamo](https://scholar.google.com/citations?user=Jbo1MqwAAAAJ&hl=en&oi=ao).
 > 
-> **Presented at**: Reinforcement Learning Conference (RLC) 2025.
+> **Presented at**: Reinforcement Learning Conference (RLC), Edmonton, Alberta, Canada, August 5–9, 2025.
 
 <p align="center">
   <img src="docs/scaling.png" alt="Replicated real-world racetracks." />
@@ -80,15 +80,16 @@ They use a customized rlops package and openrlbenchmark.
 If you find our work useful, please consider citing our paper:
 
 ```bibtex 
-@inproceedings{
-    trumpp2025impoola,
-    title={Impoola: The Power of Average Pooling for Image-based Deep Reinforcement Learning},
-    author={Raphael Trumpp and Ansgar Sch{\"a}fftlein and Mirco Theile and Marco Caccamo},
-    booktitle={Reinforcement Learning Conference},
-    year={2025},
-    url={https://openreview.net/forum?id=Kkw4nqaM9Y}
+@article{trumpp2025impoola,
+    title={Impoola: {T}he Power of Average Pooling for Image-based Deep Reinforcement Learning},
+    author={Trumpp, Raphael and Sch{\"{a}}fftlein, Ansgar and Theile, Mirco and Caccamo, Marco},
+    journal={Reinforcement Learning Journal},
+    volume={6},
+    pages={1025--1047},
+    year={2025}
 }
 ```
+Presented at the Reinforcement Learning Conference (RLC), Edmonton, Alberta, Canada, August 5–9, 2025.
 
 ## License
 [GNU General Public License v3.0 only" (GPL-3.0)](LICENSE.txt) © [raphajaner](https://github.com/raphajaner)
